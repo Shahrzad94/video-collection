@@ -1,0 +1,91 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+background-color: darksalmon;
+}
+a{
+  color:white;
+background-color: black;
+  
+}
+#a-link{
+padding: 2px;
+margin-left: 5px;
+}
+
+
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 90%;
+  background-color: darkcyan;
+}
+#my-para{
+  padding: 20px;
+  margin: 5px;
+  background-color: lightskyblue;
+  
+}
+#second-a{
+  padding: 5px;
+  margin-left: 2px;
+}
+h3{
+  margin: 5px;
+  padding: 10px;
+  background-color: lightskyblue;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#movie-des{
+  padding: 20px;
+  margin: 5px;
+  background-color: lightskyblue;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.my-form{
+  padding: 10px;
+  margin: 5px;
+}
+table,th,td {
+    border : 1px solid black;
+    border-collapse: collapse;
+  }
+  th,td {
+    padding: 5px;
+  }
+
+  #my-table{
+    color:red;
+    background-color: white;
+
+  }
+  
+  button {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    outline: none;
+    min-height: 38px;
+    font-weight: 400;
+    text-align: center;
+    cursor: pointer;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+  margin-left: 5px;
+}
+#container-movie{
+  margin: 10px;
+}
+
+#header{
+  background-color: lightpink;
+  color: cornsilk;
+  padding: 10px;
+  margin: 5px;
+  height: 10%;
+  width: auto;
+}
